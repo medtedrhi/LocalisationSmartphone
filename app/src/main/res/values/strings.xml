@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LocalisationSmartphone</string>
+    <string name="waiting_for_location">En attente de la position GPS...</string>
+    <string name="location_permission_required">Autorisation de localisation requise</string>
+    <string name="location_service_unavailable">Service de localisation indisponible</string>
+    <string name="gps_disabled">GPS desactive. Activez la localisation.</string>
+    <string name="location_disabled">Localisation desactivee. Activez la localisation.</string>
+    <string name="send_error">Erreur envoi</string>
+    <string name="location_format">Latitude : %1$.6f\nLongitude : %2$.6f\nAltitude : %3$.2f\nPrecision : %4$.2f m</string>
+</resources>
